@@ -7,11 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/varunchb" target="blank"><img src="https://img.shields.io/twitter/follow/varunchb?logo=twitter&style=for-the-badge" alt="varunchb" /></a> </p>
 
-- 💬 Ask me about **Mern, React, AI-ML, Python**
+- 💬 Ask me about **MERN, React, AI-ML, Python**
 
 - 📫 How to reach me **varunchib@yahoo.com**
 
-- ⚡ Fun fact **I will rule the world. Ask joe mama.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,8 +29,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/varunchib"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="varunchib" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varunchib&show_icons=true&locale=en&layout=compact" alt="varunchib" /></p>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varunchib&show_icons=true&locale=en" alt="varunchib" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varunchib&" alt="varunchib" /></p>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=varunchib&show_icons=true&locale=en&layout=compact" alt="varunchib"/></a><a><img align="center" src="https://github-readme-stats.vercel.app/api?username=varunchib&show_icons=true&locale=en" alt="varunchib" width="400"/></a> <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varunchib&" alt="varunchib" /></a>
